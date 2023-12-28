@@ -17,7 +17,7 @@
 </div>
 
 <div>
-<img align="right" width="430" src="./image/full.gif" />
+<img align="right" width="430" src="./image/full.webp" />
 <br/>
 
 ## A little more about me...
@@ -28,6 +28,7 @@
     <li> 📚 I always learn something new to develop.</li>
     <li> 🎣 Fun fact: I like active recreation and motorcycles.  </li>
     <li> 📫 How to contact me:
+        <br/> 
         <a href="mailto:krapkanet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?       logo=gmail&logoColor=white" alt="Gmail Badge">krapkanet@gmail.com </a>
         <br/> 
         <a href="https://t.me/Oleksandr_Shkliarevskyi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram Badge">
