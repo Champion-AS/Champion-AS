@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/oleksandr-shkliarevskyi-804a6b177/" target="_blank">𝐎𝐥𝐞𝐤𝐬𝐚𝐧𝐝𝐫</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div align="center>
+<div id="badges">
     <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3182F7&random=false&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a></h3>
 </div>
 
@@ -19,7 +19,7 @@
 </div>
 
 <div>
-<img align="right" width="430" src="./image/full1.gif" />
+<img align="right" width="430" src="./image/full2.gif" />
 <br/>
 
 ## A little more about me...
@@ -33,6 +33,7 @@
         <br/> 
         <a href="mailto:krapkanet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?       logo=gmail&logoColor=white" alt="Gmail Badge"> krapkanet@gmail.com </a>
         <br/> 
+        <br/>
         <a href="https://t.me/Oleksandr_Shkliarevskyi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram Badge">
         </a>
     </li>
