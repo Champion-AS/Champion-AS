@@ -2,7 +2,9 @@
 <a href="https://www.linkedin.com/in/oleksandr-shkliarevskyi-804a6b177/" target="_blank">𝐎𝐥𝐞𝐤𝐬𝐚𝐧𝐝𝐫</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3182F7&random=false&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a></h3>
+<div align="center>>
+    <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3182F7&random=false&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a></h3>
+</div
 
 <div id="badges">
     <p align="center">
@@ -17,7 +19,7 @@
 </div>
 
 <div>
-<img align="right" width="430" src="./image/full.gif" />
+<img align="right" width="430" src="./image/full1.gif" />
 <br/>
 
 ## A little more about me...
@@ -36,6 +38,7 @@
     </li>
   <li> 😊 I consider myself a responsible, proactive, and pleasant individual. </li>
   <li> 💻  I have a strong passion for knowledge and a great enthusiasm for learning something new. </li>
+  </li>
 </ul>
 </div>
 
