@@ -25,7 +25,7 @@
 ## A little more about me...
 
 <ul>
-    <li> 👨 I'm Oleksandr Shereshkov, a 💻 Front-End Developer. </li>
+    <li> 👨 I'm Oleksandr Shkliarevskiy, a 💻 Front-End Developer. </li>
     <li> 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.</li>
     <li> 📚 I always learn something new to develop.</li>
     <li> 🎣 Fun fact: I like active recreation and motorcycles.  </li>
